@@ -1,6 +1,6 @@
 Participantes:
 
-Daniella
-Eric
-João Vitor
-Marina
+Daniella,
+Eric,
+João Vitor,
+Marina.
